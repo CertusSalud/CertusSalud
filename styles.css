@@ -1,0 +1,42 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.section {
+  width: auto;
+  height: auto;
+}
+
+.image1{
+    width: 426px;
+    height: 426px;
+    margin-top: 50px;
+}
+.card-menu {
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  background: #2be5df;
+}
+
+.menu-bottom {
+  margin: 40px 40px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+.color{
+    background: #2be5df;
+}
+
