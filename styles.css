@@ -22,7 +22,7 @@ body {
   width: 500px;
   height: 300px;
   border-radius: 8px;
-  background: #2be5df;
+  background: cornflowerblue;
 }
 
 .menu-bottom {
@@ -37,6 +37,6 @@ body {
 }
 
 .color{
-    background: #2be5df;
+    background: cornflowerblue;
 }
 
