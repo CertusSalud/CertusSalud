@@ -34,7 +34,7 @@ nav a:hover{
     display: none;
 
 }
-/PRIMER NIVEL/
+/*PRIMER NIVEL*/
 nav > ul{
     background: #333;
     display: table;
@@ -44,10 +44,10 @@ nav > ul{
 nav > ul > li{
     float: left;
 }
-/SEGUNDO NIVEL/
+/*SEGUNDO NIVEL*/
 nav li li{
     background: #222;
 }
 
 nav > ul > li > ul
-/TERCER NIVEL/
+/*TERCER NIVEL*/
