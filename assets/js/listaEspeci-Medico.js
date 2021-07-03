@@ -36,7 +36,11 @@ let especialidad = ["Seleccione Especialidad","Cirugia", "Gastroenterología", "
                 case "Ginecologia y Obstetricia":
                     Recorrer(combobox2, medico.slice(12, 17));
                     break;
-                default:
+                case "Oncología General":
+                    Recorrer(combobox2, medico.slice(8, 11));
+                    break;
+                case "Oftalmología":
+                    Recorrer(combobox2, medico.slice(22,25));
                     break;
             }
         });
