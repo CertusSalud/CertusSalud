@@ -68,13 +68,13 @@ nav {
 .menu-bottom {
   width: 145px;
   margin: 20px 40px 40px 40px;
-  background-color: #4b48e5;
+  background-color: #0056b3;
   border: none;
 }
 
 .resultado {
   width: 375px;
-  background-color: #4b48e5;
+  background-color: #0056b3;
   margin-left: 40px;
   margin-top: 10px;
   border: none;
@@ -270,7 +270,7 @@ nav {
 .accordionTwo .panel .panel-heading a {
   display: block;
   padding: 12px 20px;
-  color: #3c39d5;
+  color: #0056b3;
 }
 
 .accordion-wrap .panel .panel-heading a {
